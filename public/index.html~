@@ -1,0 +1,36 @@
+<HTML> 
+
+<HEAD> 
+
+<TITLE>Car Trading - Admin Section (Prototype)</TITLE> 
+
+</HEAD> 
+
+<BODY BGCOLOR="FFFFFF"> 
+
+<CENTER><IMG SRC="car-banner.jpg" ALIGN="BOTTOM"> </CENTER> 
+
+<HR> 
+
+<H1>Car Trading - Admin Section</H1> 
+
+<H2>Prototype (1st Iteration)</H2> 
+
+
+
+<a href="/cars">  <button style="width:140;height:30">Cars</button>
+  </a>
+<a href="/brands"> <button style="width:140;height:30"> Brands </button> </a>
+<a href="/manufacturers"> <button style="width:140;height:30"> Manufacturers </button> </a>
+<a href="/users">  <button style="width:140;height:30"> Users </button> </a> 
+
+
+
+<BR> <B><I>This is a sample admin section. Take notice that this is the output of the 1st Sprint, and therefore it only demonstrates a fraction of what's to come.</I></B> 
+
+<HR> 
+
+</BODY> 
+
+</HTML> 
+

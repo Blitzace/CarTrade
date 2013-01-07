@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  user: 
+  car: 
+  bidding: 1
+
+two:
+  user: 
+  car: 
+  bidding: 1

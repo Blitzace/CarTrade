@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  Name: MyString
+  email: MyString
+  password: MyString
+  address: MyText
+  telephone: 1
+  DOB: 
+  bid: 
+
+two:
+  Name: MyString
+  email: MyString
+  password: MyString
+  address: MyText
+  telephone: 1
+  DOB: 
+  bid: 

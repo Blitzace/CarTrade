@@ -1,0 +1,6 @@
+class Car < ActiveRecord::Base
+  belongs_to :Manufacturer
+  belongs_to :Brand
+  has_many :bids
+  has_many :users, :through => :bids
+end

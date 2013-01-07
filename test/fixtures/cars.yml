@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  VIN: MyString
+  Year: 1
+  Manufacturer: 
+  State: MyString
+  Details: MyString
+  Price: 1
+
+two:
+  VIN: MyString
+  Year: 1
+  Manufacturer: 
+  State: MyString
+  Details: MyString
+  Price: 1

@@ -3,5 +3,5 @@ has_many :cars, :through => :bids
 has_many :bids
 
 validates_presence_of :Name
-validates_presence_of :Address
+validates_presence_of :address
 end

@@ -7,7 +7,7 @@ gem 'rails', '3.1.0'
 
 group :production, :staging do
   gem 'pg'
-  gem 'therubyracer', '~> 0.9.3.beta1'
+  gem 'therubyracer'
 end
 
 group :development, :test do
